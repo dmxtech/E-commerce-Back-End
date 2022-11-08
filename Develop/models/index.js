@@ -19,7 +19,7 @@ Product.belongsToMany(Tag, {
   onDelete: 'SET NULL'
 });
 // Tags belongToMany Products (through ProductTag)
-Product.belongsToMany(Product, {
+Tag.belongsToMany(Product, {
   through: ProductTag,
   foreignKey: "tag_id",
   onDelete: 'SET NULL'
