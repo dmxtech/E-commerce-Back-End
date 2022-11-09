@@ -1,7 +1,7 @@
 
   # E-commerce Back End
 
-   undefined
+   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Table of Content
   
@@ -35,6 +35,8 @@
 
   ## link
   https://drive.google.com/file/d/1URBDDxUhI_Iz37pGR1XIQVFsAj2HHEhN/view
+  Video: [video](dmxtech).
+
 
   ## installation
   you need to install all the dependencies and then run the server. In order to use CRUD operations you can use the port on insomnia.
@@ -43,10 +45,10 @@
   Start and use insomnia plataform to use crud operations
 
   ## credits
-  tec de monterrey
+   tec de monterrey
 
   ## License
-  undefined
+  Licensed under the [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) license
 
   ## Email
   dmxtechinn@gmail.com
