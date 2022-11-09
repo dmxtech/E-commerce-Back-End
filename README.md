@@ -35,7 +35,7 @@
 
   ## link
   https://drive.google.com/file/d/1URBDDxUhI_Iz37pGR1XIQVFsAj2HHEhN/view
-  Video: [video](dmxtech).
+  Video: [video](https://drive.google.com/file/d/1URBDDxUhI_Iz37pGR1XIQVFsAj2HHEhN/view).
 
 
   ## installation
@@ -45,7 +45,7 @@
   Start and use insomnia plataform to use crud operations
 
   ## credits
-   tec de monterrey
+  tec de monterrey
 
   ## License
   Licensed under the [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) license
